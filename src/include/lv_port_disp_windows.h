@@ -39,7 +39,9 @@ void delayms(uint8_t _ms);
 #ifdef __cplusplus
 } /*extern "C"*/
 #endif
-
+#define MY_DISP_HOR_RES 480
+#define MY_DISP_VER_RES 480
+#define LV_VER_RES_MAX  480
 #endif /*LV_PORT_DISP_TEMPL_H*/
 
 #endif /*Disable/Enable content*/
