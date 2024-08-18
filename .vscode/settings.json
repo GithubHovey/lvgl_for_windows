@@ -7,6 +7,9 @@
           "sdl.h": "c",
           "lv_drv_conf.h": "c",
           "lv_port_disp.h": "c",
-          "lv_port_disp_windows.h": "c"
+          "lv_port_disp_windows.h": "c",
+          "stdio.h": "c",
+          "algorithm": "c",
+          "stdbool.h": "c"
      }
 }
